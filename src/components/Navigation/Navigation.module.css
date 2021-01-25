@@ -1,0 +1,15 @@
+@import "../../styles/globalVars.css";
+
+.navigation {
+  height: $navigation-height;
+  position: fixed;
+  top: 0;
+  background-color: #f8f8f8;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  box-shadow: 0px 0px 8px #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
