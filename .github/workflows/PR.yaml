@@ -6,7 +6,7 @@ name: PR made against main
 on:
   workflow_dispatch:
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   PR_against_main:
