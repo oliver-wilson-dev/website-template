@@ -1,6 +1,6 @@
 {
   "name": "website-template",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "analyze-bundle": "npm run build && npx source-map-explorer 'build/static/js/*.js'",

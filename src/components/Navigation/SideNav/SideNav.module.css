@@ -143,6 +143,7 @@
 
   & .link {
     -webkit-tap-highlight-color: transparent;
+    padding: 20px 25px 20px 20px;
     color: var(--text-colour);
     width: 100%;
     height: 100%;
@@ -151,10 +152,6 @@
     align-items: center;
     transition: none;
   }
-}
-
-.menuItemMargin {
-  margin: 20px 25px 20px 20px;
 }
 
 @media (min-width: 768px) {
